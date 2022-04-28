@@ -1,2 +1,2 @@
-# MyGDMods
+# MyMods
 Its rep with my mods
